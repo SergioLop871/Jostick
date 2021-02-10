@@ -87,6 +87,7 @@ void Robot::OperatorControl() {
 /**
  * Runs during test mode
  */
+/* Prueba Sergio
 void Robot::Test() {}
 
 #ifndef RUNNING_FRC_TESTS
